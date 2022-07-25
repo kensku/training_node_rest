@@ -9,7 +9,8 @@ const rotas = {
     '/nomeProf': 'nome do professor',
     '/emailProf': 'email do professor',
     '/teleProf': 'telefone do professor',
-    '/disciplina': 'disciplina do professor'
+    '/disciplina': 'disciplina do professor',
+    '/sobre': "sobre"
 }
 
 
